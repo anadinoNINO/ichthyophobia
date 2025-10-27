@@ -1,0 +1,25 @@
+{
+    "name": "Denise Turner",
+    "age": 19,
+    "address": {
+        "street": "Timothy Pass",
+        "city": "Derrickburgh",
+        "state": "Kentucky",
+        "zip": "28731"
+    },
+    "contact": {
+        "phone": "490-520-3524x48931",
+        "servicePhone": "800834846"
+    },
+    "birthday": "2006-08-05",
+    "ip": "141.7.95.230",
+    "foo": "bar",
+    "profile": {
+        "about": "No turn seek grow ready film them short. Example dinner meeting economy father. Say although director charge.",
+        "bio": "Once must research sister group wall force. Through mean spend head cover.\nBad eight represent not form range. Peace commercial plant hospital. She type television yourself win animal woman a."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
