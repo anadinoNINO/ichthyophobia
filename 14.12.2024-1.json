@@ -1,0 +1,25 @@
+{
+    "name": "Evan Murphy DVM",
+    "age": 84,
+    "address": {
+        "street": "Estrada Street",
+        "city": "Smithborough",
+        "state": "Delaware",
+        "zip": "92927"
+    },
+    "contact": {
+        "phone": "787.958.9760",
+        "servicePhone": "800978250"
+    },
+    "birthday": "1941-11-12",
+    "ip": "141.78.135.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Doctor perhaps others. Talk member girl specific hit often establish water.\nBehavior trial air prepare would suggest step. Create young charge sister reveal town reflect.",
+        "bio": "To somebody century use high beat economy whom. High wife toward law. Campaign those factor.\nMedical Republican class past than. Hair among enough large."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
