@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Valdez",
+    "age": 19,
+    "address": {
+        "street": "Amanda Extensions",
+        "city": "North Suzanne",
+        "state": "Idaho",
+        "zip": "15472"
+    },
+    "contact": {
+        "phone": "001-954-238-2023x946",
+        "servicePhone": "800400577"
+    },
+    "birthday": "2006-02-03",
+    "ip": "126.56.234.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Huge raise current consumer account lay hope able. Continue shoulder others stay teacher particularly find. Though firm popular mention.",
+        "bio": "Some task at. Glass air information determine season. Power see full morning. No detail we body run.\nWay yes bring. Whose than executive too my quite. Future discover happy free stuff item."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
