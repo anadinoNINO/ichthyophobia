@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Zimmerman",
+    "age": 20,
+    "address": {
+        "street": "Ryan Lake",
+        "city": "West Tyler",
+        "state": "Delaware",
+        "zip": "95483"
+    },
+    "contact": {
+        "phone": "+1-604-916-4762x9829",
+        "servicePhone": "800443788"
+    },
+    "birthday": "2005-24-10",
+    "ip": "197.180.146.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Key reach reveal perhaps answer though watch. Grow treatment rise involve.",
+        "bio": "Contain country whatever difference set. Degree church wind source. Tend human pull child situation specific.\nWord star but exactly own measure admit."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
