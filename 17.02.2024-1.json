@@ -1,0 +1,25 @@
+{
+    "name": "Mark Roberson",
+    "age": 89,
+    "address": {
+        "street": "Andrew Haven",
+        "city": "Ramosmouth",
+        "state": "Michigan",
+        "zip": "54063"
+    },
+    "contact": {
+        "phone": "001-720-528-6366",
+        "servicePhone": "800524443"
+    },
+    "birthday": "1936-09-10",
+    "ip": "117.187.8.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Will voice performance important today.\nRecognize doctor head throughout night lawyer. Really challenge board life here left protect. Rest suggest owner front trip certainly care.",
+        "bio": "Yes scientist new beat six. Result indicate across case.\nAt center take every stock home. Know middle just assume individual hear. With face discuss think serious somebody chance."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
