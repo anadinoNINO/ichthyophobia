@@ -1,0 +1,25 @@
+{
+    "name": "Alicia Phillips",
+    "age": 5,
+    "address": {
+        "street": "Timothy Locks",
+        "city": "East Kimberly",
+        "state": "Delaware",
+        "zip": "82891"
+    },
+    "contact": {
+        "phone": "+1-531-887-8568x6478",
+        "servicePhone": "800276095"
+    },
+    "birthday": "2020-24-07",
+    "ip": "156.168.224.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand research detail technology. Old less game outside reflect. Upon arm remember weight land.",
+        "bio": "Arrive identify voice. Stay civil inside various wrong main learn crime.\nTonight head performance though film sound. Light property both positive trouble. More study agreement instead."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
