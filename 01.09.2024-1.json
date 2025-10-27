@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Ferguson",
+    "age": 115,
+    "address": {
+        "street": "Erica Hollow",
+        "city": "Gibsonburgh",
+        "state": "Nevada",
+        "zip": "25665"
+    },
+    "contact": {
+        "phone": "483.744.1924",
+        "servicePhone": "800837506"
+    },
+    "birthday": "1910-25-05",
+    "ip": "53.174.47.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Space win under item a bit figure. Note white since herself one. Himself charge away space quite hair court.",
+        "bio": "Imagine charge myself return each. Direction seat industry serve. Agency either magazine because why all."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
