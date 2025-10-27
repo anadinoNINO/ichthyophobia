@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Horton",
+    "age": 41,
+    "address": {
+        "street": "Matthew Lights",
+        "city": "Barrettberg",
+        "state": "Washington",
+        "zip": "08472"
+    },
+    "contact": {
+        "phone": "001-340-724-1909x2023",
+        "servicePhone": "800957557"
+    },
+    "birthday": "1984-15-07",
+    "ip": "5.182.12.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign or employee. With relate simple exist.\nDuring head Republican like fall. Economy new model but place. Scene medical market material then.",
+        "bio": "Leave society method watch. Interview compare admit life. Public others allow black medical pick."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
