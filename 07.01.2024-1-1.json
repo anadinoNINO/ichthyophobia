@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Parker",
+    "age": 25,
+    "address": {
+        "street": "Marcus Wall",
+        "city": "Sweeneyton",
+        "state": "Connecticut",
+        "zip": "83776"
+    },
+    "contact": {
+        "phone": "001-707-660-7738x72872",
+        "servicePhone": "800285845"
+    },
+    "birthday": "2000-16-02",
+    "ip": "46.217.96.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic mean most choice our research argue. Tv reality happen pattern art nearly.",
+        "bio": "Technology series health per. Site group exactly process evidence. Improve throughout could have energy.\nMaybe child soon center who action top. Watch travel remember well."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
